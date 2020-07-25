@@ -1,0 +1,11 @@
+ Volume in drive C is System
+ Volume Serial Number is C07B-D4F4
+
+ Directory of C:\Users\urastogi\Desktop\GitProject
+
+25-07-2020  18:08    <DIR>          .
+25-07-2020  18:08    <DIR>          ..
+25-07-2020  18:03    <DIR>          file.txt
+25-07-2020  18:08                 0 file11.txt
+               1 File(s)              0 bytes
+               3 Dir(s)  36,235,558,912 bytes free
